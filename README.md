@@ -7,3 +7,4 @@ Hi Katt McGuinness here. Collaboration go!
 CONFLICT WAR MURDER
 
 This repository was created as part of Lab 1 for the Full Stack Development course.
+Local change made by Nicholas Slack.
